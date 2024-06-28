@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	
+		.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000047754413545092561220000009984365419332757390_);filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{mask:url(#mask0_501_11930_00000081649918554152100850000016654729337992308386_);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#A6A1A1;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000121253195171277358800000012372019115908560805_);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000080173776938946863540000008377342526206916228_);}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#0071BA;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="17.455" y1="41.7135" x2="229.4639" y2="181.1363">
+	<stop  offset="0" style="stop-color:#006DB3"/>
+	<stop  offset="1" style="stop-color:#005E99"/>
+</linearGradient>
+<path class="st0" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v12.1v10.1V160c0,6.6,5.4,12,12,12h200
+	c6.6,0,12-5.4,12-12V70.1c0-6.6-5.4-12-12-12H117.4L104.4,42.4z"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="17" y="62" width="224" height="110">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="17" y="62" width="224" height="110" id="mask0_501_11930_00000081649918554152100850000016654729337992308386_">
+	
+		<linearGradient id="SVGID_00000096757582432180327070000007027738593409170338_" gradientUnits="userSpaceOnUse" x1="32.5816" y1="239.5494" x2="213.3495" y2="58.4074" gradientTransform="matrix(1 0 0 -1 0 258)">
+		<stop  offset="0" style="stop-color:#05815D"/>
+		<stop  offset="1" style="stop-color:#0C575F"/>
+	</linearGradient>
+	
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000096757582432180327070000007027738593409170338_);filter:url(#Adobe_OpacityMaskFilter);" d="
+		M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v12.1v10.1V160c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12V70.1
+		c0-6.6-5.4-12-12-12H117.4L104.4,42.4z"/>
+</mask>
+<g class="st2">
+	<g>
+		<path class="st3" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4H229c6.6,0,12,5.4,12,12v34v52c0,6.6-5.4,12-12,12H29
+			c-6.6,0-12-5.4-12-12v-52V86c0-6.6,5.4-12,12-12h58H92.8z"/>
+	</g>
+</g>
+<linearGradient id="SVGID_00000160889880101358939640000006723307377808988037_" gradientUnits="userSpaceOnUse" x1="26.2091" y1="68.4019" x2="237.2998" y2="207.2209">
+	<stop  offset="0" style="stop-color:#009CFF"/>
+	<stop  offset="1" style="stop-color:#007DCC"/>
+</linearGradient>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000160889880101358939640000006723307377808988037_);" d="
+	M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4H229c6.6,0,12,5.4,12,12v34v90c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-90V86
+	c0-6.6,5.4-12,12-12h58H92.8z"/>
+<linearGradient id="SVGID_00000046317478493803962490000015638080735845836163_" gradientUnits="userSpaceOnUse" x1="17" y1="202" x2="241" y2="202">
+	<stop  offset="0" style="stop-color:#0071BA"/>
+	<stop  offset="1" style="stop-color:#00609E"/>
+</linearGradient>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000046317478493803962490000015638080735845836163_);" d="
+	M17,194v4c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-4c0,6.6-5.4,12-12,12H29C22.4,206,17,200.6,17,194z"/>
+<path class="st6" d="M106.6,69.4c-4,3-8.8,4.6-13.8,4.6H87H29c-6.6,0-12,5.4-12,12v4c0-6.6,5.4-12,12-12h58h5.8
+	c5,0,9.8-1.6,13.8-4.6l9.9-7.4H229c6.6,0,12,5.4,12,12v-4c0-6.6-5.4-12-12-12H116.5L106.6,69.4z"/>
+<path class="st7" d="M168.3,99.8L168.3,99.8c-8.4-7.3-20.2-11.5-33.9-11.5c-35.7,0-60,27.4-60,27.4l6.8,10.8c0,0,3.8,0.3,1.8-6
+	c1.7-3.3,5.1-7.6,11.7-12.7v71.9c-2.9,0.8-6.6,2.3-4.1,4.9h19.7c2.6-2.6-1.5-4.1-4-4.9v-17c0,0,13.5,5.3,28,5.3
+	c12.8,0,24.4-3.8,33-10.6c8.6-6.8,14.2-16.9,14.2-28.5C181.7,117.5,176.8,107.1,168.3,99.8z M157.9,151.7L157.9,151.7
+	c-6,5.9-14.7,9.6-24.7,9.6c-11.2,0-20.6-2.1-26.8-5.2v-54c6.8-4.8,17.9-7.8,26.8-7.8c10.9,0,19.4,4.1,25.2,10.3
+	c5.8,6.2,8.9,14.5,8.9,24.1C167.2,138,163.9,145.7,157.9,151.7z"/>
+</svg>
